@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\bin\Debug\Database1.mdf
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\bin\Debug\Database1_log.ldf
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\bin\Debug\db.exe.config
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\bin\Debug\db.exe
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\bin\Debug\db.pdb
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.Properties.Resources.resources
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.exe
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.pdb
+C:\Users\Student\source\repos\Eldhos369\Exp4\db\obj\Debug\db.salary.resources
